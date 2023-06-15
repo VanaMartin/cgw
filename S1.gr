@@ -10,10 +10,13 @@
 1   S1   NP _VP
 1   _VP  VP Punc
 
-1   VP   VerbT NP
+1   VP  VerbT NP
+1	VP	VerbT JJ
 
 20  NP   Det Nbar
 1   NP   Proper
+1	NP	VBG NP2
+1	NP2	TO NNP 
 
 10  Nbar Noun
 1   Nbar Nbar PP
