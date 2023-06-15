@@ -4,6 +4,7 @@
 1    S2       _Prep
 1    S2       _Proper
 1    S2       _VerbT
+1	S2	NP VP
 # empty rules not allowed
 # 1  S2
 1    _Det     Det
@@ -48,3 +49,20 @@
 1    _VerbT   VerbT _Prep
 1    _VerbT   VerbT _Proper
 1    _VerbT   VerbT _VerbT
+
+
+5	NP	VBG NP2
+5	NP2	TO NNP 
+
+5  Nbar Noun
+1   Nbar Nbar PP
+
+1	S2	DO_PHRASE _VP
+1	_VP VP EOS
+1	VP VB
+1	VP NP VB
+1	DO_PHRASE DO NNS
+
+1	S2 WHO_DOES _VP
+1	WHO_DOES WP DO
+
