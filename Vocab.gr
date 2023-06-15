@@ -93,7 +93,7 @@
 # End-of-sentence.
 1    EOS    !
 1    EOS    .
-1    EOS    ?
+1    QOS    ?
 
 # Pauses.
 1    PAUSE    ,
@@ -354,12 +354,12 @@
 1    Misc    anyone
 1    Misc    y'
 1    Misc    feel
-1    Misc    happy
+1    JJ    happy
 1    Misc    feel
 1    Misc    happy
 1    Misc    'm
-1    Misc    thirty
-1    Misc    seven
+1    NUM    thirty
+1    NUM    seven
 1    Misc    'm
 1    Misc    old
 1    Misc    you
@@ -370,20 +370,20 @@
 1    Misc    're
 1    Misc    living
 1    Misc    in
-1    Misc    dictatorship
+1    Noun    dictatorship
 1    Misc    we
 1    Misc    're
 1    Misc    an
-1    Misc    anarcho-syndicalist
+1    Noun    anarcho-syndicalist
 1    Misc    commune
-1    Misc    all
+1    Det    all
 1    Misc    decisions
 1    Misc    officer
 1    Misc    ratified
-1    Misc    special
+1    JJ    special
 1    Misc    biweekly
-1    Misc    meeting
-1    Misc    order
+1    Noun    meeting
+1    Noun    order
 1    Misc    you
 1    Misc    quiet
 1    Misc    well
@@ -405,7 +405,7 @@
 1    Misc    moistened
 1    Misc    bink
 1    Misc    lobbed
-1    Misc    scimitar
+1    Noun    scimitar
 1    Misc    me
 1    Misc    'd
 1    Misc    put
@@ -424,7 +424,7 @@
 1    Misc    violence
 1    Misc    inherent
 1    Misc    in
-1    Misc    system
+1    Noun    system
 1    Misc    help
 1    Misc    'm
 1    Misc    repressed
@@ -435,7 +435,7 @@
 1    Misc    many
 1    Misc    men
 1    Misc    with
-1    Misc    none
+1    NUM    none
 1    Misc    pass
 1    Misc    move
 1    Misc    man
@@ -468,7 +468,7 @@
 1    Misc    we
 1    Misc    burn
 1    Misc    'm
-1    Misc    witch
+1    Noun    witch
 1    Misc    well
 1    Misc    second
 1    Misc    thought
@@ -476,7 +476,7 @@
 1    Misc    go
 1    Misc    silly
 1    Misc    place
-1    Misc    King
+1    Proper    King
 1    Misc    your
 1    Misc    purpose
 1    Misc    Quest
@@ -485,13 +485,13 @@
 1    Misc    your
 1    Misc    we
 1    Misc    charged
-1    Misc    God
+1    Proper    God
 1    Misc    blow
 1    Misc    my
 1    Misc    nose
 1    Misc    you
 1    Misc    so-called
-1    Misc    Arthur-king
+1    Proper    Arthur-king
 1    Misc    you
 1    Misc    all
 1    Misc    your
